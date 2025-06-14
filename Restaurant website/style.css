@@ -1,0 +1,39 @@
+
+   body {
+  background-color: #121212 !important;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+   }
+
+    .navbar-nav .nav-link {
+      color: white ;
+    }
+
+    .navbar-nav .nav-link:hover {
+      background-color: #dc3545;
+      color: #fff ;
+      border-radius: 0.25rem;
+    }
+     .menu-section p {
+      color: #ccc;
+    }
+    .menu-item img {
+      width: 100%;
+      border-radius: 15px;
+      object-fit: cover;
+      max-height: 300px;
+    }
+    .menu-item h3 {
+      color: #ff4d4d;
+      font-weight:600;
+    }
+    .menu-item {
+      margin-bottom: 4rem;
+    }
+ .extra-padding-top {
+  padding-top: 6rem; /* Adjust the value as needed */
+}
+
+
+
+    
